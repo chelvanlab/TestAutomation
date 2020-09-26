@@ -1,0 +1,12 @@
+<suite name="Regression" verbose="1" >
+    <test name="testNg" >
+        <classes>
+            <class name="testNg.TestNgBasic" />
+            <class name="testNg.testNg2"/>
+            <class name="testNg.testng3"/>
+            <class name="testNg.testNg4"/>
+            <class name="testNg.testNg5"/>
+            <class name="testNg.testNg6"/>
+        </classes>
+    </test>
+</suite>
